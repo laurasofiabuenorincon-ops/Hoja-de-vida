@@ -13,7 +13,7 @@ const Experiences = () => {
         <div className="exp-content">
           <h3>Monitoria Administrativa</h3>
           <h4>Universidad Del Valle Regional Eje Cafetero Sede Caicedonia</h4>
-          <p><small>2025-1, 2025-2</small></p>
+          <p><small>2025-1, 2025-2, 2026-1</small></p>
           <ul>
             <li>Redacción y gestión de comunicaciones formales (correos, informes, recordatorios).</li>
             <li>Creación de guías paso a paso para inducciones y protocolos operativos.</li>

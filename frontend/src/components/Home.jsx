@@ -14,7 +14,7 @@ const Home = () => {
           enfoque colaborativo y calidad técnica. </p>
 
         <div className="social-icons">
-            <a href="https://github.com/Awiita-lua" target="_blank" rel="noreferrer">
+            <a href="https://github.com/laurasofiabuenorincon-ops" target="_blank" rel="noreferrer">
                 <FaGithub />
             </a>
             <a href="https://www.linkedin.com/in/laura-sofia-132471392/" target="_blank" rel="noreferrer">

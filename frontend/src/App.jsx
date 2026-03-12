@@ -20,7 +20,7 @@ function App() {
       <Contact />
       <footer className="footer">
         <div className="social-icons">
-          <a href="https://github.com/Awiita-lua" target="_blank" rel="noreferrer">
+          <a href="https://github.com/laurasofiabuenorincon-ops" target="_blank" rel="noreferrer">
             <FaGithub/>
           </a>
           <a href="#" target="_blank" rel="noreferrer">
